@@ -1,0 +1,138 @@
+{
+  "Data": {
+    "RepositoryOwner": {
+      "Repositories": {
+        "Edges": [
+          {
+            "Node": {
+              "Name": "00listing",
+              "Url": "https://github.com/peg-parser/00listing",
+              "Description": "Listing of Collected Projects",
+              "PrimaryLanguage": {"PrimaryLanguage": "None"}
+            }
+          },
+          {
+            "Node": {
+              "Name": "flora-sql-parser",
+              "Url": "https://github.com/peg-parser/flora-sql-parser",
+              "Description": "Parse SQL (select) statements into abstract syntax tree (AST) and convert ASTs back to SQL.",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "JavaScript"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "grammars",
+              "Url": "https://github.com/peg-parser/grammars",
+              "Description": "PEG grammars and tools",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "Go"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "node-sql-parser",
+              "Url": "https://github.com/peg-parser/node-sql-parser",
+              "Description": "Parse simple SQL statements into an abstract syntax tree (AST) with the visited tableList and convert it back to SQL",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "PEG.js"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "nquery",
+              "Url": "https://github.com/peg-parser/nquery",
+              "Description": "Generic SQL engine for Web and Big-data.",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "JavaScript"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "peg",
+              "Url": "https://github.com/peg-parser/peg",
+              "Description": "Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "Go"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "pegjs",
+              "Url": "https://github.com/peg-parser/pegjs",
+              "Description": "PEG.js: Parser generator for JavaScript",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "JavaScript"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "pigeon",
+              "Url": "https://github.com/peg-parser/pigeon",
+              "Description": "Command pigeon generates parsers in Go from a PEG grammar.",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "Go"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "simpleSqlParser",
+              "Url": "https://github.com/peg-parser/simpleSqlParser",
+              "Description": "A simple (limited) SQL Parser",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "Go"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "sql.pegjs",
+              "Url": "https://github.com/peg-parser/sql.pegjs",
+              "Description": "Deprecated toy project based on steveyen/sqld3",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "JavaScript"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "sqld3",
+              "Url": "https://github.com/peg-parser/sqld3",
+              "Description": "SQL parser in javascript",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "JavaScript"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "sqlite-parser",
+              "Url": "https://github.com/peg-parser/sqlite-parser",
+              "Description": "JavaScript implentation of SQLite 3 query parser",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "PLpgSQL"
+              }
+            }
+          },
+          {
+            "Node": {
+              "Name": "sqlparser",
+              "Url": "https://github.com/peg-parser/sqlparser",
+              "Description": "Simple SQL parser meant for querying CSV files",
+              "PrimaryLanguage": {
+                "PrimaryLanguage": "Go"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
